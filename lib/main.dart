@@ -90,7 +90,7 @@ void main() {
                   mainAxisAlignment: MainAxisAlignment.start, // Adjust as needed
                   children: <Widget>[
                     SizedBox(
-                      height: 50,
+                      height: 65,
                       child: Padding(
                         padding: EdgeInsets.only(
                           left: 0.0,
